@@ -1,0 +1,17 @@
+body {
+  background: #384047;
+  font-family: sans-serif;
+  text-align: center;
+  color: grey;
+}
+div {
+  margin: auto;
+  max-width: 50em;
+}
+img{
+  display: none;
+  border-radius: 2em;
+}
+#draw{
+  max-height: 240px;
+}
